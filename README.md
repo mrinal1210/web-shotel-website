@@ -1,4 +1,4 @@
-# simple Hotel Website
+# Hotel Website
 
 Welcome to simple Hotel Website. It makes use of HTML5 and css with mobile support.
 
