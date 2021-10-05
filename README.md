@@ -1,6 +1,6 @@
 # Hotel Website
 
-Welcome to simple Hotel Website. It makes use of HTML5 and css with mobile support.
+Welcome to simple Hotel Website. It makes use of HTML5 and CSS with mobile support.
 
 <!-- TOC insertAnchor:false -->
 
